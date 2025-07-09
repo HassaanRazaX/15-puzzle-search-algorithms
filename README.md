@@ -108,9 +108,9 @@ Time taken: 0.15s
 ## Contact
 
 - **Muhammad Hassaan Raza**  
-  hassaanxhk11@gmail.com | +92 320 0096255 | [GitHub](https://github.com/HassaanRazaX)
+  hassaanxhk11@gmail.com | [GitHub](https://github.com/HassaanRazaX)
 
 - **Kanza Kashaf**  
-  kanzakashaf56@gmail.com | +92 324 0497445 | [GitHub](https://github.com/KanzaKashaf)
+  kanzakashaf56@gmail.com | [GitHub](https://github.com/KanzaKashaf)
 
 ---
